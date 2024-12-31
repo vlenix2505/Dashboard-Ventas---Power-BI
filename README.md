@@ -6,6 +6,14 @@
 ## Introducción
 Este dashboard de ventas proporciona una vista integral del rendimiento comercial de una empresa peruana. Su diseño interactivo y corporativo facilita el análisis de métricas clave, permitiendo identificar patrones, evaluar resultados y tomar decisiones basadas en datos.
 
+Los datos utilizados fueron extraídos de una base de datos en Excel en formato tabla. Antes de cargarlos en el modelo, se realizó un **proceso de limpieza y transformación de datos en Power Query**. Esta etapa incluyó:
+- Eliminación de valores nulos y duplicados.
+- Corrección de formatos de fecha, moneda y texto.
+- Creación de columnas calculadas para mejorar la segmentación y categorización.
+- Normalización de nombres y categorías para mantener la coherencia.
+  
+Este enfoque garantizó un conjunto de datos limpio y estructurado, optimizando el rendimiento y la precisión del análisis en el dashboard.
+
 ---
 
 ## Utilidad del Dashboard
